@@ -1,5 +1,5 @@
-# Global-Solution-2023.2-Hapvida-NotreDame-Intermedica
-FIAP's semestral university challenge with Hapvida NotreDame Intermedica for the Raquel team from the 1TDSPR class.
+# Global-Solution-2024.1-Oceans-20
+FIAP's semestral university challenge with Oceans 20 for the Oceania team from the 1TDSPR class.
 
 ## Members
 Jhonatan Sampaio Ferreira
